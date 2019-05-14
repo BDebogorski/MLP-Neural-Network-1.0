@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1556672193 source:c:\all\inf\programy\aiml_debug\main.cpp
+	"mlp.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1556617115 source:c:\all\inf\programy\aiml_debug\perceptron.cpp
+	"perceptron.h"
+	<cstdlib>
+
+1556617075 c:\all\inf\programy\aiml_debug\perceptron.h
+	<vector>
+
+1556546116 source:c:\all\inf\programy\aiml_debug\layer.cpp
+	"layer.h"
+
+1556546245 c:\all\inf\programy\aiml_debug\layer.h
+	"perceptron.h"
+	"data.h"
+
+1557061762 c:\all\inf\programy\aiml_debug\mlp.h
+	"layer.h"
+
+1557061758 source:c:\all\inf\programy\aiml_debug\mlp.cpp
+	"mlp.h"
+
+1556551242 c:\all\inf\programy\aiml_debug\data.h
+	"perceptron.h"
+
+1556544436 source:c:\all\inf\programy\aiml_debug\data.cpp
+	"data.h"
+
